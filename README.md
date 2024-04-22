@@ -1,3 +1,3 @@
-![Metrics](./general.svg)
-![Metrics](./languages.svg)
-![Metrics](./achievements.svg)
+![General](./general.svg)
+![Languages](./languages.svg)
+![Achievements](./achievements.svg)
