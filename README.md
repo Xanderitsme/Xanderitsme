@@ -1,4 +1,3 @@
-<picture>
-  <img src="./github-metrics.svg" alt="Metrics">
-  <img src="./metrics.plugin.languages.details.svg" alt="Metrics">
-</picture>
+![Metrics](./general.svg)
+![Metrics](./languages.svg)
+![Metrics](./achievements.svg)
