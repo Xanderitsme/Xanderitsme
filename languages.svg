@@ -31,11 +31,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.73639719592143" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="211.73639719592143" y="0" width="115.89904611019048" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="327.6354433061119" y="0" width="109.57552675767933" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="437.21097006379125" y="0" width="22.36881532755071" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.579785391342" y="0" width="0.42021460865804494" height="8" fill="#6594b9"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="206.94092503973482" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="206.94092503973482" y="0" width="117.51204984267811" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="324.4529748824129" y="0" width="113.27412825992724" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="437.7271031423401" y="0" width="21.862199400904466" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.5893025432446" y="0" width="0.4106974567553521" height="8" fill="#6594b9"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -47,18 +47,18 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>46.03%</div>
+                                <div>44.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                PHP
+                                C++
                             </div>
                             <small>
-                                <div>23.82%</div>
+                                <div>24.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -77,12 +77,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                PHP
                             </div>
                             <small>
-                                <div>25.2%</div>
+                                <div>25.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -93,7 +93,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>4.86%</div>
+                                <div>4.75%</div>
                             </small>
                         </div>
                     </section>
